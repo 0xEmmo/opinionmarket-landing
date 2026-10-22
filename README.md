@@ -21,3 +21,8 @@ All market names, values, odds, activity, imagery, wallet balance, and ticket be
 ## Reference interaction pass
 
 The mobile helper follows a compact Polymarket-style bottom bar above navigation, and each outcome row exposes illustrative Yes/No actions that open the market detail view.
+
+
+## Typography and onboarding
+
+The interface uses Inter across navigation, cards, controls, charts, market detail, and responsive layouts. The How it works helper opens a three-step interactive walkthrough with progress, Next, Back, Start exploring, backdrop dismissal, and an X close action.
