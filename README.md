@@ -6,8 +6,8 @@ A premium, front-end-only OpinionMarket product prototype for an interview submi
 
 - The single category rail filters the shared 14-market illustrative dataset without duplicate navigation. The selected category state and result count update together.
 - Search and sort controls update the visible market feed.
-- Market cards and the featured market moment open a full-screen market detail view with one fluctuating colored chart line per outcome, outcome chips, Buy/Sell tabs, amount input, quick amount buttons, share calculations, estimated spend, fee, and max-return summary.
-- The floating brand-logo quick-picks control opens a yin-yang-style swirl sheet with three suggestions, tap-again reshuffling, and explicit Shuffle and Close controls.
+- Market cards and the featured market moment open a full-screen market detail view with one smooth, fluctuating month-based chart line per outcome with range controls and outcome labels, outcome chips, Buy/Sell tabs, amount input, quick amount buttons, share calculations, estimated spend, fee, and max-return summary.
+- The supplied brand logo is used in the top navigation and quick-picks control; the control opens a yin-yang-style swirl sheet with three suggestions, tap-again reshuffling, and explicit Shuffle and Close controls.
 - The order ticket is visually modeled on a prediction-market staking flow, but remains demo-only: it never processes money, orders, deposits, authentication, or real trading.
 - Responsive desktop and mobile navigation, keyboard focus, reduced-motion support, and explicit illustrative-data messaging are included.
 
