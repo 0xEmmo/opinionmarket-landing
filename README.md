@@ -34,3 +34,7 @@ The demo inventory now contains 28 Nigeria-focused illustrative markets across T
 ## Buy-position clarity
 
 The market detail ticket now puts Yes and No price buttons directly beneath the Buy/Sell tabs. Both are always visible, show the current illustrative percentage, highlight the active position, and immediately update the selected outcome, share estimate, and demo return calculation.
+
+## Event-to-image matching
+
+Sports imagery is now assigned at the individual market level rather than by one broad sports fallback: Super Eagles qualifier, PSG vs Barcelona, Liverpool vs Villarreal, Anthony Joshua boxing, Lagos City / NPFL, and Super Falcons each use a dedicated matching image. Politics markets retain politics imagery, while entertainment, economy, technology, and world-event markets retain their own subject treatment.

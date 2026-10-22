@@ -24,3 +24,15 @@ OpinionMarket currently exposes a simple brand header, category links, featured 
 Polymarket emphasizes browsable topic rails, featured event blocks, compact outcome rows, volume/deadline context, topic hubs, and a dense all-markets discovery feed. The useful pattern is information hierarchy, not its brand styling.
 
 Kalshi emphasizes a clear exchange shell, trending topics, market/news highlight modules, forecast strips, popular markets, and movers. The useful pattern is activity/context around the primary market feed, not copying its layout.
+
+
+## Event-specific image matching (2026-10-22)
+
+- Super Eagles qualifier: BBC result asset — https://files.manuscdn.com/search-media/310519664037936898/bSDY3XdFDD3n3ENaTcueGM/Sv5pfppLLgzSWc3T3vCme8.webp
+- Anthony Joshua boxing: DAZN result asset — https://files.manuscdn.com/search-media/310519664037936898/bSDY3XdFDD3n3ENaTcueGM/ieufGbmeynEmE3pwSgd8dN.jpg
+- PSG vs Barcelona: ESPN result asset — https://files.manuscdn.com/search-media/310519664037936898/bSDY3XdFDD3n3ENaTcueGM/kBGzTZqFkWeNWWgJbmGjNa.jpg
+- Liverpool vs Villarreal: Liverpool FC result asset — https://files.manuscdn.com/search-media/310519664037936898/bSDY3XdFDD3n3ENaTcueGM/qnnDCY3tZwvohZQkZx7CJj.jpeg
+- Lagos City / NPFL: Sporting Lagos vs Ikorodu City result asset — https://files.manuscdn.com/search-media/310519664037936898/bSDY3XdFDD3n3ENaTcueGM/UAeEAxpWz8mqdMepf9iCCm.jpg
+- Super Falcons: Al Jazeera result asset — https://files.manuscdn.com/search-media/310519664037936898/bSDY3XdFDD3n3ENaTcueGM/k4yYr3vKirS2tJ3m3tuRhc.jpg
+
+These assets are local copies selected to match the market text. They are illustrative prototype imagery and are not presented as official OpinionMarket content.
