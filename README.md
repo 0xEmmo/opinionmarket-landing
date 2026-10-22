@@ -50,3 +50,7 @@ The homepage now disables browser scroll restoration and explicitly opens at the
 ## Demo profile
 
 The guest header now uses an OpinionMarket Demo identity instead of initials. It shows the illustrative ₦120,000 balance on desktop and mobile, and opens a profile panel with demo email, portfolio balance, open positions, and an explicit no-login/no-persistence disclaimer. This is a profile surface only; it does not authenticate or save data.
+
+## Mobile profile navigation
+
+The mobile bottom-bar About item is now Profile and opens the same demo profile surface as the header account control. The profile menu lists Profile, Wallet, Portfolio, Settings, and Log out, with an About OpinionMarket Demo description and clear demo-only behavior; no item authenticates, saves data, or changes a real account.
