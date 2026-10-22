@@ -38,3 +38,7 @@ The market detail ticket now puts Yes and No price buttons directly beneath the 
 ## Event-to-image matching
 
 Sports imagery is now assigned at the individual market level rather than by one broad sports fallback: Super Eagles qualifier, PSG vs Barcelona, Liverpool vs Villarreal, Anthony Joshua boxing, Lagos City / NPFL, and Super Falcons each use a dedicated matching image. Politics markets retain politics imagery, while entertainment, economy, technology, and world-event markets retain their own subject treatment.
+
+## Featured event image correction
+
+The main featured “Can the Super Eagles keep a clean sheet in their next qualifier?” card now uses the dedicated Super Eagles qualifier image instead of the generic crowd image. Other market-card imagery remains unchanged.
