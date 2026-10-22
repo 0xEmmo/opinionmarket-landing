@@ -30,3 +30,7 @@ The interface uses Inter across navigation, cards, controls, charts, market deta
 ## Market floor expansion
 
 The demo inventory now contains 28 Nigeria-focused illustrative markets across Trending, Sports, Politics, Entertainment, Economy and Finance, World Events, and Technology. Cards use responsive auto-fit sizing, local Nigeria-relevant imagery for major event groups, and green/red Yes/No signal language. The detail chart uses denser month-aligned historical points, separate fluctuating series, and endpoint labels for each outcome.
+
+## Buy-position clarity
+
+The market detail ticket now puts Yes and No price buttons directly beneath the Buy/Sell tabs. Both are always visible, show the current illustrative percentage, highlight the active position, and immediately update the selected outcome, share estimate, and demo return calculation.
