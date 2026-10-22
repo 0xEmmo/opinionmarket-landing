@@ -46,3 +46,7 @@ The main featured “Can the Super Eagles keep a clean sheet in their next quali
 ## Startup position
 
 The homepage now disables browser scroll restoration and explicitly opens at the top on a direct site load or refresh. Intentional in-page hash navigation remains available after the page is open.
+
+## Demo profile
+
+The guest header now uses an OpinionMarket Demo identity instead of initials. It shows the illustrative ₦120,000 balance on desktop and mobile, and opens a profile panel with demo email, portfolio balance, open positions, and an explicit no-login/no-persistence disclaimer. This is a profile surface only; it does not authenticate or save data.
