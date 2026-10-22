@@ -26,3 +26,7 @@ The mobile helper follows a compact Polymarket-style bottom bar above navigation
 ## Typography and onboarding
 
 The interface uses Inter across navigation, cards, controls, charts, market detail, and responsive layouts. The How it works helper opens a three-step interactive walkthrough with progress, Next, Back, Start exploring, backdrop dismissal, and an X close action.
+
+## Market floor expansion
+
+The demo inventory now contains 28 Nigeria-focused illustrative markets across Trending, Sports, Politics, Entertainment, Economy and Finance, World Events, and Technology. Cards use responsive auto-fit sizing, local Nigeria-relevant imagery for major event groups, and green/red Yes/No signal language. The detail chart uses denser month-aligned historical points, separate fluctuating series, and endpoint labels for each outcome.
