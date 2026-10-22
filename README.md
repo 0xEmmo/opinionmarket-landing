@@ -42,3 +42,7 @@ Sports imagery is now assigned at the individual market level rather than by one
 ## Featured event image correction
 
 The main featured “Can the Super Eagles keep a clean sheet in their next qualifier?” card now uses the dedicated Super Eagles qualifier image instead of the generic crowd image. Other market-card imagery remains unchanged.
+
+## Front-end sign-in
+
+The guest account control now opens a dedicated OpinionMarket sign-in screen. Users can enter a display name and email, then return to the market floor with their initials, name, and email shown in the header. This is intentionally front-end-only: no backend account is created, no data is sent or stored, and a refresh returns to the guest state.
