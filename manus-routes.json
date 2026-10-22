@@ -1,1 +1,1 @@
-{"routes":[{"path":"/","title":"OpinionMarket — Market Floor"}]}
+{"routes":[{"path":"/","title":"OpinionMarket — Home"},{"path":"/search","title":"OpinionMarket — Search"},{"path":"/live","title":"OpinionMarket — Live"},{"path":"/profile","title":"OpinionMarket — Profile"}]}
