@@ -16,3 +16,8 @@ A premium, front-end-only OpinionMarket product prototype for an interview submi
 Open `index.html` directly, or serve the folder with any static server. `app-ui.html` mirrors the same experience for compatibility with the original two-file prototype.
 
 All market names, values, odds, activity, imagery, wallet balance, and ticket behavior are illustrative demo content.
+
+
+## Reference interaction pass
+
+The mobile helper follows a compact Polymarket-style bottom bar above navigation, and each outcome row exposes illustrative Yes/No actions that open the market detail view.
