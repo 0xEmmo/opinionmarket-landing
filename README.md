@@ -46,3 +46,7 @@ The main featured “Can the Super Eagles keep a clean sheet in their next quali
 ## Front-end sign-in
 
 The guest account control now opens a dedicated OpinionMarket sign-in screen. Users can enter a display name and email, then return to the market floor with their initials, name, and email shown in the header. This is intentionally front-end-only: no backend account is created, no data is sent or stored, and a refresh returns to the guest state.
+
+## Startup position
+
+The homepage now disables browser scroll restoration and explicitly opens at the top on a direct site load or refresh. Intentional in-page hash navigation remains available after the page is open.
