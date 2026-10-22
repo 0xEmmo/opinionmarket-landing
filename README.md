@@ -5,7 +5,7 @@ A premium, front-end-only OpinionMarket product prototype for an interview submi
 ## Included interactions
 
 - The single category rail filters the shared 14-market illustrative dataset without duplicate navigation. The selected category state and result count update together.
-- Search and sort controls update the visible market feed.
+- Search and sort controls update the visible market feed. The home rail includes an Ending soon filter (markets closing within 24 hours), and Search supports 24-hour and 7-day closing windows plus soonest/later closing sort options.
 - Market cards and the featured market moment open a full-screen market detail view with one smooth, fluctuating month-based chart line per outcome with range controls and outcome labels, outcome chips, Buy/Sell tabs, amount input, quick amount buttons, share calculations, estimated spend, fee, and max-return summary.
 - The supplied brand logo is used in the top navigation and quick-picks control; the quick-picks sheet shows one image-led Yes/No demo market at a time, with both illustrative probabilities clearly labeled. Shuffle or tap the floating control again to cycle to a different binary market; choosing Yes or No opens that market’s demo ticket.
 - The order ticket is visually modeled on a prediction-market staking flow, but remains demo-only: it never processes money, orders, deposits, authentication, or real trading.
