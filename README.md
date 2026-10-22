@@ -54,3 +54,7 @@ The guest header now uses an OpinionMarket Demo identity instead of initials. It
 ## Mobile profile navigation
 
 The mobile bottom-bar About item is now Profile and opens the same demo profile surface as the header account control. The profile menu lists Profile, Wallet, Portfolio, Settings, and Log out, with an About OpinionMarket Demo description and clear demo-only behavior; no item authenticates, saves data, or changes a real account.
+
+## Demo purchase confirmation
+
+The order CTA now completes a front-end purchase simulation instead of only changing its label. It opens a “Shares purchased” confirmation with the selected Yes/No position, market title and image, amount, estimated shares, max return, demo portfolio language, and a confetti success moment. The confirmation explicitly states that no payment, wallet charge, or real position was created.
