@@ -9,7 +9,7 @@ A premium, front-end-only OpinionMarket product prototype for an interview submi
 - Market cards and the featured market moment open a full-screen market detail view with one smooth, fluctuating month-based chart line per outcome with range controls and outcome labels, outcome chips, Buy/Sell tabs, amount input, quick amount buttons, share calculations, estimated spend, fee, and max-return summary.
 - The supplied brand logo is used in the top navigation and quick-picks control; the control opens a yin-yang-style swirl sheet with three suggestions, tap-again reshuffling, and explicit Shuffle and Close controls.
 - The order ticket is visually modeled on a prediction-market staking flow, but remains demo-only: it never processes money, orders, deposits, authentication, or real trading.
-- Responsive desktop and mobile navigation, keyboard focus, reduced-motion support, and explicit illustrative-data messaging are included.
+- Responsive desktop and mobile navigation, keyboard focus, reduced-motion support, a dismissible mobile How it works guide, draggable quick picks, a back-to-top control, and explicit illustrative-data messaging are included.
 
 ## Run locally
 
